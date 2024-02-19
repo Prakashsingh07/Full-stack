@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 20px blue;
+}
+h1 button{
+    background-color: red;
+    color: aqua;
+    border-top-right-radius: 20px;
+}
+h1 button:hover{
+    background-color: aqua;
+    color: black;
+}
+#div1 input{
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+h3{
+    color: burlywood;
+    
+}
+button{
+    background-color: blueviolet;
+    color: azure;
+}
+p{
+    color: red;
+    text-decoration: underline;
+}
+.follow{
+    color: rgb(240, 220, 8);
+    text-align: right;
+}
+.l1{
+    display: inline;
+    margin-right: 100px;
+    text-shadow: 1px 1px 20px red;
+    background-color: rgb(224, 0, 0);
+}

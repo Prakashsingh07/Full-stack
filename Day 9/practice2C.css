@@ -1,0 +1,34 @@
+#d1{
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+    margin: 10px auto;
+
+}
+.d2{
+    height: 20px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-size: 20px;
+    padding-top: 10px;
+    border: 2px solid black;
+    position: relative;
+    top:8px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 6px;;
+}
+a{
+    text-decoration: none;
+    
+}
+h3{
+    margin-bottom: 100px;
+}

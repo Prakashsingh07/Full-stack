@@ -1,0 +1,89 @@
+.top{
+    margin:0px 0px 0px;
+    background-color: black;
+    height:100px;
+}
+
+.top img{
+    height:10px;
+}
+
+body{
+    background-color: #121212;
+}
+
+.main{
+    height: 54em;
+    width:41em;
+    background-color: black;
+    margin:0px auto;
+    border-radius: .75rem;
+    padding:5px 10px 5px 10px;
+    margin-top: 10px;
+}
+
+.login{
+    background-color: thistle;
+    
+    
+}
+
+.heading{
+    background-color: pink;
+    height:8em;
+    
+}
+
+.box{
+    display: flex;
+    height:17em;
+    background-color: #121212;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.badge{
+    border:none;
+    border: 0.01em solid  rgba(255, 255, 255, 0.5) ;
+    width: 50%;
+    height:3em;
+    border-radius: 2em;
+    font-size: medium;
+    font-weight: 700;
+    color: white;
+    background-color: #121212;
+    
+}
+
+.badge:hover{
+    border-color: rgba(255, 255, 255, 1) ;
+}
+
+hr{
+    columns: white;
+    width:15px
+}
+.H{
+    position: relative;
+    top: 40px;
+    left: 30%;
+}
+i{
+    position: relative;
+    right: 30px;
+    font-size: x-large;
+}
+.i1{
+    position: relative;
+    right: 40px;
+    font-size: x-large;
+}
+/* .i2{
+    position: absolute;
+    right: 490px;
+    font-size: larger;
+} */
+a{
+    text-decoration: none;
+}

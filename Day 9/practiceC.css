@@ -1,0 +1,23 @@
+#d1{
+    height: 400px;
+    width: 400px;
+    border: 2px solid aqua;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+.d2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: gray;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    
+    
+}

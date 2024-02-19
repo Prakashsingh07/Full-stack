@@ -1,0 +1,51 @@
+/* h1{
+    background-color: black;
+    color: aqua;
+}
+p{
+    color: yellow;
+    background-color: black;
+} */
+
+
+/* h1{
+    font-family: league spartan;
+    text-align: center;
+    text-decoration: underline;
+    color: orange;
+    background: azure;
+    font-size: 55px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 1.5;
+} */
+
+p{
+    color: brown;
+    font-family: Georgia;
+}
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+    line-height: 30px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: yellow;
+}
+a{
+    text-decoration: none;
+    color: green;
+    
+}
+button{
+    background-color: azure;
+    color: aqua;
+}

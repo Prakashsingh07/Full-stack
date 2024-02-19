@@ -1,0 +1,31 @@
+.card{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 4px 10px green;
+    transition: 0.8s;
+}
+img{
+    width: 50%;
+    background-size: cover;
+   
+    padding-right: 2px;
+    width: 200px;
+}
+#dhoni{
+    height: 200px;
+}
+#virat{
+    margin-bottom: 70px;
+    height: auto;
+}
+.desc{
+    padding-left: 10px;
+}
+.card:hover{
+    box-shadow: 4px 8px 20px rgb(25, 182, 244);
+}

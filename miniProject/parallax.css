@@ -1,0 +1,121 @@
+#parallax{
+    margin: 0%;
+    padding: 0%;
+}
+#d1{
+    background-image: url(img1.webp);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    position: relative;
+    top: 200px;
+    font-size: 60px;
+}
+#d2{
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+#d3{
+    background-image: url(img4.jpg);
+    min-height: 700px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 32px;
+    
+}
+#p1{
+    font-size: xx-large;
+    position: relative;
+    top: 150px;
+    color: azure;
+}
+#d4{
+    background-color: black;
+    color: aqua;
+    font-size: larger;
+    height: 100px;
+    position: relative;
+    bottom: 32px;
+}
+#d5{
+    background-image: url(img3.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    bottom: 64px;
+    
+}
+#p2{
+    font-size: xx-large;
+    color: antiquewhite;
+    position: relative;
+    top: 250px;
+}
+#d6{
+    background-color: black;
+    color: aqua;
+    font-size: larger;
+    height: 100px;
+    position: relative;
+    bottom: 64px;
+}
+#d7{
+    background-image: url(img6.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    bottom: 96px;
+}
+#p3{
+    font-size: xx-large;
+    color: antiquewhite;
+    position: relative;
+    top: 250px;
+}
+#d8{
+    background-color: black;
+    color: aqua;
+    font-size: larger;
+    height: 100px;
+    position: relative;
+    bottom: 96px;
+}
+#d9{
+    background-image: url(img7.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    bottom: 128px;
+}
+#p4{
+    font-size: xx-large;
+    color: antiquewhite;
+    position: relative;
+    top: 250px;
+}
+#d10{
+    background-color: black;
+    color: aqua;
+    font-size: larger;
+    height: 200px;
+    position: relative;
+    bottom: 128px;
+}
