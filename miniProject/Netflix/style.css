@@ -71,4 +71,28 @@
     border-radius: 9px;
     width: 100px;
 }
-
+/* .email{
+    height: 200px;
+    width: 300px;
+} */
+input[type=Email]{
+    width: 40%;
+    height: 100%;
+    /* box-sizing: border-box; */
+    padding: 20px;
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+.btn1{
+    width: 15%;
+    /* height: 70%; */
+    padding: 20px;
+    font-size: large;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    background-color: red;
+    color: white;
+}
