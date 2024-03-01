@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.image-container {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    opacity: 0;
+    animation: fadeInOut 9s linear infinite;
+}
+
+.image-container img:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.image-container img:nth-child(2) {
+    animation-delay: 3s;
+}
+
+.image-container img:nth-child(3) {
+    animation-delay: 6s;
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0;
+    }
+    25%, 75% {
+        opacity: 1;
+    }
+}
