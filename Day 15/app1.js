@@ -17,6 +17,8 @@
 
 // Alert display an alert message on the page 
 // alert("Something is wrong");
+alert("your network is slow.");
+alert("this will take few sec");
 
 //Prompt display a dialog box that ask user for some input.
 // prompt("Please enter your roll no.");
@@ -28,5 +30,5 @@
 // console.log("Welcome",firstname," ",lastname,"!");
 
 //STRING METHOD..
-formate
-stringName.method();
+// formate
+// stringName.method();
